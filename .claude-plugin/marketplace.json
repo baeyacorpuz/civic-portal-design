@@ -1,0 +1,16 @@
+{
+  "name": "civic-portal-design",
+  "owner": {
+    "name": "Better Naguilian volunteers"
+  },
+  "metadata": {
+    "description": "Design system for community-built Philippine LGU portals."
+  },
+  "plugins": [
+    {
+      "name": "civic-portal-design",
+      "source": "./",
+      "description": "Design system and civic patterns for community-built Philippine LGU portals."
+    }
+  ]
+}

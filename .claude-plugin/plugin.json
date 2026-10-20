@@ -1,0 +1,12 @@
+{
+  "name": "civic-portal-design",
+  "version": "0.1.0",
+  "description": "Design system and civic patterns for community-built Philippine LGU portals: OKLCH tokens, shadcn/ui variants, sourced facts, emergency hotlines, Citizen's Charter service pages and accessibility rules.",
+  "author": {
+    "name": "Better Naguilian volunteers"
+  },
+  "homepage": "https://github.com/baeyacorpuz/civic-portal-design",
+  "repository": "https://github.com/baeyacorpuz/civic-portal-design",
+  "license": "MIT",
+  "keywords": ["design-system", "shadcn", "tailwind", "civic-tech", "philippines", "lgu", "accessibility"]
+}
